@@ -1,4 +1,4 @@
-CroissantWIIU version 2024 1.0.0
+CroissantWIIU version 2024 1.0.1
 
 This information IS VERY IMPORTANT so do not skip anything
 
